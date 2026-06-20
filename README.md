@@ -1,10 +1,9 @@
-<h1 align="center">👋 Hello, I’m Mst Joni Khatun
-💻 Front-End Developer | 🌐 WordPress Web Designer | 🎨 Creative Web Specialist</h1>
+<h1 align="center">👋 Hello, I’m Mst Joni Khatun</h1>
 
 <h3 align="center">✨ Creative Front-End Developer & WordPress Web Designer 🌐💻
 I’m passionate about building clean, modern, and user-focused websites that blend creativity 🎨 with functionality ⚡.
-From responsive front-end development 📱💡 to custom WordPress web design 🖥️🛠️, I craft digital experiences that are visually stunning 👀✨, smooth in performance 🚀, and easy to use 🤝.
-I don’t just build websites 🌍 — I create powerful online experiences 💎 that captivate ❤️, connect 🌐, and convert 📈, turning ideas into reality 🔥✨</h3>
+From responsive front-end development 📱 to custom WordPress web design 🖥️, I craft digital experiences that are visually stunning 👀, smooth in performance 🚀, and easy to use 🤝.
+I don’t just build websites 🌍 — I create powerful online experiences 💎 that captivate ❤️, connect 🌐, and convert 📈, turning ideas into reality 🔥</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joni250&label=Profile%20views&color=0e75b6&style=flat" alt="joni250" /> </p>
 
