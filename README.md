@@ -1,17 +1,66 @@
-<h1 align="center">👋 Hello, I’m Mst Joni Khatun</h1>
+# Hi there 👋, I'm Mst Joni Khatun
 
-<h3 align="center">✨ Creative Front-End Developer & WordPress Web Designer 🌐💻
-I’m passionate about building clean, modern, and user-focused websites that blend creativity 🎨 with functionality ⚡.
-From responsive front-end development 📱 to custom WordPress web design 🖥️, I craft digital experiences that are visually stunning 👀, smooth in performance 🚀, and easy to use 🤝.
-I don’t just build websites 🌍 — I create powerful online experiences 💎 that captivate ❤️, connect 🌐, and convert 📈, turning ideas into reality 🔥</h3>
+💻 Front-End Developer | WordPress Web Designer  
+🌍 Based in Rangpur, Bangladesh  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=joni250&label=Profile%20views&color=0e75b6&style=flat" alt="joni250" /> </p>
+I’m passionate about building modern, responsive, and user-friendly websites.  
+I specialize in creating visually appealing and high-performing web solutions using Front-End technologies and WordPress.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joni250" alt="joni250" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [https://www.mstjonikhatun.site/](https://www.mstjonikhatun.site/)
+## 🚀 About Me
 
-- 📫 How to reach me **jmmonjurahman@gmail.com**
+- 🔹 Skilled in Front-End Development & WordPress Design  
+- 🔹 Focused on responsive and mobile-friendly websites  
+- 🔹 Experienced in bug fixing and website customization  
+- 🔹 Passionate about clean UI/UX and performance optimization  
+- 🔹 Always learning new technologies and improving my skills  
+
+---
+
+## 🛠️ Skills  
+
+### Front-End Development  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### WordPress Development  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+
+---
+
+## 📂 Services I Provide
+
+✔ Landing Page Design  
+✔ WordPress Website Design  
+✔ Website Bug Fixing  
+✔ Responsive Website Development  
+✔ WooCommerce Store Setup  
+✔ Website Redesign  
+✔ Speed Optimization  
+
+---
+
+## 🌐 Connect With Me  
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joni250)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+
+📧 Email: jmmonjurahman@gmail.com  
+
+---
+
+## 📈 Goal
+
+My goal is to help businesses and individuals build a strong online presence with clean, modern, and functional websites.
+
+⭐ Feel free to explore my repositories and connect with me!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
