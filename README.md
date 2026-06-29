@@ -35,15 +35,17 @@ I specialize in creating visually appealing and high-performing web solutions us
 
 ---
 
-💼 What I Can Do For You
+## 💼 What I Can Do For You
 
-✨ Build stunning Landing Pages
-🎯 Create professional WordPress Websites
-🔧 Fix website bugs and issues
-📱 Make websites fully responsive
-🛍️ Setup WooCommerce online stores
-🎨 Redesign old websites with a modern touch
-⚡ Optimize website speed for better performance 
+* ✨ Build stunning Landing Pages
+* 🎯 Create professional WordPress Websites
+* 🔧 Fix website bugs and issues
+* 📱 Make websites fully responsive
+* 🛍️ Setup WooCommerce online stores
+* 🎨 Redesign old websites with a modern touch
+* ⚡ Optimize website speed for better performance
+
+
 
 ---
 
