@@ -8,13 +8,15 @@ I specialize in creating visually appealing and high-performing web solutions us
 
 ---
 
-## 🚀 About Me
+👨‍💻 About Me
 
-- 🔹 Skilled in Front-End Development & WordPress Design  
-- 🔹 Focused on responsive and mobile-friendly websites  
-- 🔹 Experienced in bug fixing and website customization  
-- 🔹 Passionate about clean UI/UX and performance optimization  
-- 🔹 Always learning new technologies and improving my skills  
+✨ Passionate about crafting modern, responsive, and user-friendly websites
+🎨 Specialized in WordPress Web Design & Front-End Development
+🚀 Focused on building visually appealing and high-performing web experiences
+📚 Constantly learning new technologies and improving my development skills
+💡 Love turning ideas into real, functional digital solutions
+🌍 Based in Rangpur, Bangladesh
+🤝 Open to freelance projects, collaborations, and creative opportunities 
 
 ---
 
@@ -33,33 +35,35 @@ I specialize in creating visually appealing and high-performing web solutions us
 
 ---
 
-## 📂 Services I Provide
+💼 What I Can Do For You
 
-✔ Landing Page Design  
-✔ WordPress Website Design  
-✔ Website Bug Fixing  
-✔ Responsive Website Development  
-✔ WooCommerce Store Setup  
-✔ Website Redesign  
-✔ Speed Optimization  
+✨ Build stunning Landing Pages
+🎯 Create professional WordPress Websites
+🔧 Fix website bugs and issues
+📱 Make websites fully responsive
+🛍️ Setup WooCommerce online stores
+🎨 Redesign old websites with a modern touch
+⚡ Optimize website speed for better performance 
 
 ---
 
 ## 🌐 Connect With Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joni250)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](#)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Joni250)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mst-joni-khatun/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge\&logo=facebook\&logoColor=white)](https://www.facebook.com/mst.joni.khatun.478182)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/joniinsta617/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge\&logo=x\&logoColor=white)](https://x.com/JoniMst95652)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](https://www.youtube.com/@ThemeCrafters-Joni)
 
-📧 Email: jmmonjurahman@gmail.com  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:jmmonjurahman@gmail.com)
+
 
 ---
 
 ## 📈 Goal
 
 My goal is to help businesses and individuals build a strong online presence with clean, modern, and functional websites.
-
 ⭐ Feel free to explore my repositories and connect with me!
 
 <h3 align="left">Connect with me:</h3>
@@ -70,11 +74,4 @@ My goal is to help businesses and individuals build a strong online presence wit
 <a href="https://instagram.com/joniinsta617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joniinsta617/" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/@themecrafters-joni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@themecrafters-joni" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joni250&show_icons=true&locale=en&layout=compact" alt="joni250" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joni250&show_icons=true&locale=en" alt="joni250" /></p>
 
