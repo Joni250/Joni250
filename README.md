@@ -61,17 +61,12 @@ I specialize in creating visually appealing and high-performing web solutions us
 
 ---
 
-## 📈 Goal
+## 🎯 My Goal
 
-My goal is to help businesses and individuals build a strong online presence with clean, modern, and functional websites.
-⭐ Feel free to explore my repositories and connect with me!
+My goal is to help businesses and individuals establish a strong online presence by building clean, modern, responsive, and high-performing websites.
+I am passionate about turning ideas into functional digital experiences that create value and drive growth.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/jonimst95652" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jonimst95652" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mst-joni-khatun-796079368" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mst-joni-khatun-796079368" height="30" width="40" /></a>
-<a href="https://fb.com/mst.joni.khatun.478182" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mst.joni.khatun.478182" height="30" width="40" /></a>
-<a href="https://instagram.com/joniinsta617/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="joniinsta617/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@themecrafters-joni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@themecrafters-joni" height="30" width="40" /></a>
-</p>
+⭐ Feel free to explore my repositories, connect with me, and collaborate on exciting projects!
+
+
 
