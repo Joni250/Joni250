@@ -1,10 +1,12 @@
 # Hi there 👋, I'm Mst Joni Khatun
 
-💻 Front-End Developer | WordPress Web Designer  
-🌍 Based in Rangpur, Bangladesh  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=💻+Front-End+Developer+%7C+WordPress+Web+Designer;🌍+Based+in+Rangpur,+Bangladesh" alt="Typing SVG" />
+</p> 
 
-I’m passionate about building modern, responsive, and user-friendly websites.  
-I specialize in creating visually appealing and high-performing web solutions using Front-End technologies and WordPress.
+✨ I’m passionate about building modern, responsive, and user-friendly websites.
+💻 I specialize in creating visually appealing and high-performing web solutions using Front-End technologies and WordPress.
+
 
 ---
 
@@ -65,8 +67,8 @@ I specialize in creating visually appealing and high-performing web solutions us
 
 ## 🎯 My Goal
 
-My goal is to help businesses and individuals establish a strong online presence by building clean, modern, responsive, and high-performing websites.
-I am passionate about turning ideas into functional digital experiences that create value and drive growth.
+🎯 My goal is to help businesses and individuals establish a strong online presence by building clean, modern, responsive, and high-performing websites.
+🚀 I am passionate about turning ideas into functional digital experiences that create value and drive growth.
 
 ⭐ Feel free to explore my repositories, connect with me, and collaborate on exciting projects!
 
